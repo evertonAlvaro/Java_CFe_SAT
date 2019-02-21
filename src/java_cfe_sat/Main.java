@@ -24,7 +24,7 @@ public class Main {
     public static void main(String[] args) throws FileNotFoundException {
         try {
             // TODO code application logic here
-            String xml = XmlUtil.leXml("C:\\teste.xml");
+            String xml = XmlUtil.leXml("D:\\teste.xml");
             EnvTeste.CFe nota = XmlUtil.xmlToObject(xml, EnvTeste.CFe.class);
             System.out.println(nota.getInfCFe().getIde().getDEmi());
             System.out.println(nota.getInfCFe().getIde().getCNPJ());
