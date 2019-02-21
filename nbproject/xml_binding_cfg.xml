@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<schemas xmlns='http://xml.netbeans.org/schema/JAXBWizConfig' destdir='build/generated-sources/jaxb' projectName='java_cfe_sat' version='1.0'>
+	<schema type='-xmlschema' package='cfe' name='CfeTeste'>
+		<xjc-options>
+		</xjc-options>
+		<schema-sources>
+			<schema-source location='xml-resources/jaxb/CfeTeste/CfeTeste_0008.xsd' origLocation='../../../Downloads/XSD_00_08/CfeTeste_0008.xsd'/>
+		</schema-sources>
+		<bindings>
+		</bindings>
+		<catalog/>
+	</schema>
+</schemas>

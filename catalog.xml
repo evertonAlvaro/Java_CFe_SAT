@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/note0/Documents/NetBeansProjects/java_cfe_sat/src/xsd/CfeAtivacao_0007.xsd" uri="xml-resources/jaxb/cfeAtivacao/CfeAtivacao_0007.xsd"/>
+    <system systemId="file:/C:/Users/note0/Documents/NetBeansProjects/java_cfe_sat/src/xsd/CfeAtualizacao_0007.xsd" uri="xml-resources/jaxb/cfeAtualizacao/CfeAtualizacao_0007.xsd"/>
+    <system systemId="file:/C:/Users/note0/Documents/NetBeansProjects/java_cfe_sat/src/xsd/CfeRecepcao_0007.xsd" uri="xml-resources/jaxb/cfe/CfeRecepcao_0007.xsd"/>
+    <system systemId="file:/C:/Users/note0/Documents/NetBeansProjects/java_cfe_sat/src/xsd/CfeTeste_0007.xsd" uri="xml-resources/jaxb/CfeTeste/CfeTeste_0007.xsd"/>
+    <system systemId="file:/C:/Users/note0/Documents/NetBeansProjects/java_cfe_sat/src/xsd/CfeRecepcao_0008.xsd" uri="xml-resources/jaxb/cfeRecepcao/CfeRecepcao_0008.xsd"/>
+    <system systemId="file:/C:/Users/note0/Documents/NetBeansProjects/java_cfe_sat/src/xsd/CfeTeste_0008.xsd" uri="xml-resources/jaxb/CfeTeste/CfeTeste_0008.xsd"/>
+    <system systemId="file:/C:/Users/note0/Documents/NetBeansProjects/java_cfe_sat/../../../Downloads/XSD_00_08/CfeTeste_0008.xsd" uri="xml-resources/jaxb/CfeTeste/CfeTeste_0008.xsd"/>
+</catalog>
